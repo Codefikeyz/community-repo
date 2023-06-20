@@ -11,7 +11,7 @@
 | 003 | Explain burning, how to gather stats | Clearly explain how tokens are burnt on Joystream and the data is drawn | 10000 | unassigned |
 | 004 | Staking info-graphic | Make a high quality infographics on staking in Joystream, rewards plus other important info | 10000 | unassigned |
 | 005 | Joystream Governance Orientation Video | Make a HD quality video explaining the governance system of Joystream  | 10000 | unassigned  |
-| 005 | Extend handbook + community repo | Update the Joystream handbook and https://github.com/Joystream/community-repo from GH issues and Notion | 500 / hr | unassigned  |
+| 006 | Extend handbook + community repo | Update the Joystream handbook and https://github.com/Joystream/community-repo from GH issues and Notion | 500 / hr | unassigned  |
 
 # Development
 
